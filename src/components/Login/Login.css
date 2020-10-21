@@ -1,0 +1,24 @@
+.container-top{
+    background-color: #F8FAFC;
+    height: 600px;
+}
+
+.login-style{
+    margin: 0 auto;    
+}
+.login-style-box{
+    background-color: #FFF;
+    border: 1px solid lightgrey;
+    height: 370px;
+    border-radius: 5px;    
+}
+.login-style-box h2{
+    margin-top: 63px;
+}
+
+.google-logoSection-style{
+    border: 1px solid lightgrey;
+    border-radius: 20px 20px;
+    padding: 2px 0 3px 5px;
+    width: 85%;
+}
